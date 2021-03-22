@@ -1,3 +1,3 @@
-# Pytorch Implement of Towards Corruption-agnostic Robust Domain Adaptation
+# CRDA
 
-Comming Soon.
+Code release for "Towards Corruption-agnostic Domain Adaptation"
